@@ -9,7 +9,7 @@ font-family: "Montserrat", serif;
 font-family: "Rubik", serif;
 */
 
-@media {
+@media screen {
     body {
         background: #242a3c;
     }
